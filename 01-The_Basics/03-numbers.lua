@@ -6,7 +6,7 @@
 
   ========================================
   Part I: The Basics
-  Chapter: 2 - Numbers
+  Chapter: 3 - Numbers
   ========================================
 
   These are the notes and code examples from the third chapter of the book.
